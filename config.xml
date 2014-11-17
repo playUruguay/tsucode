@@ -4,14 +4,14 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>TSU codes</name>
+<name>PhoneGap Build Application</name>
 
 <description>
-Join to de Social & Payment Network Tsu
+A simple PhoneGap Build application.
 </description>
 
-<author href="http://www.play.com" email="info@play.com">
-PlayCreativa
+<author href="https://example.com" email="you@example.com">
+Your Name
 </author>
 
 </widget>
